@@ -1,6 +1,7 @@
 # Take Home Tana Test
 
 ## Instructions on how to run the code
+First clone the project locally in you computer: git clone https://github.com/JoshuaBarawa/take-home-tana-test.git
 
 ### Requirements
 Java Version: 20.0.2
